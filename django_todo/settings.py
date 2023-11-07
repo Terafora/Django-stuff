@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-(s8#k^w2ttcnd3&1%vsrabp4^4ypbwe$9$%xsfn)%=m7kw@=-d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-terafora-djangostuff-pz8lct226sk.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = ['cs-django-todo-app-abaf9126db77.herokuapp.com']
 
 
 # Application definition
